@@ -13,3 +13,5 @@ The output is created as an XML file that can be loaded and visualized in the Ca
 
 5. You can also select a keyword in the query field to create a clusterization with ONLY docs that contain that keyword
 </pre>
+Result:
+![Image of Clusterization](https://github.com/cayorodriguez/temucluster/blob/master/clusters-20200826164731.png)
