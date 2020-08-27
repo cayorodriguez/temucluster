@@ -1,7 +1,11 @@
-# temucluster
+# TEMUcluster
+
+## Descripcion
+
 Creación de un archivo para clusterización en Carrot Workbench a partir de archivos en un directorio
 
 The output is created as an XML file that can be loaded and visualized in the Carrot Workbench platform (https://doc.carrot2.org/):
+
 <pre>
 1. First it reads and opens text files from specified directory.
 
@@ -13,5 +17,7 @@ The output is created as an XML file that can be loaded and visualized in the Ca
 
 5. You can also select a keyword in the query field to create a clusterization with ONLY docs that contain that keyword
 </pre>
-Result:
+
+## Resultado sobre un directorio de casos clínicos de oncología:
+
 ![Image of Clusterization](https://github.com/cayorodriguez/temucluster/blob/master/clusters-20200826164731.png)
